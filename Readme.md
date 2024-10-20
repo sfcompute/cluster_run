@@ -1,7 +1,7 @@
 
 ## San Francisco Compute Company's Cluster Management Tool
 
-`cluster_run` is a powerful and efficient Rust-based utility designed by San Francisco Compute Company for seamless cluster management and remote command execution. This tool enables system administrators and DevOps professionals to effortlessly run commands across multiple nodes in a cluster, streamlining operations and enhancing productivity in distributed computing environments.
+`cluster_run` is a Rust-based script designed by San Francisco Compute Company for seamless cluster management and remote command execution. This tool enables system administrators and DevOps professionals to effortlessly run commands across multiple nodes in a cluster, streamlining operations and enhancing productivity in distributed computing environments.
 
 ### Features
 
