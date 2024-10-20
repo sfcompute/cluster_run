@@ -1,0 +1,9 @@
+[package]
+name = "cluster_run"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ssh2 = "0.9.4"
+toml = "0.8.19"
+serde = { version = "1.0.210", features = ["derive"] }
